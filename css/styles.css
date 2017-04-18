@@ -1,0 +1,21 @@
+body {
+  background-color: maroon;
+}
+
+h1 {
+  color: 	white;
+  font-family: cursive;
+  text-align: center;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+p {
+  color: 	#008B8B;
+  font-weight: lighter;
+  font-family: fantasy;
+  font-size: 20px;
+  
+}
