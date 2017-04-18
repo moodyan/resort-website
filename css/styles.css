@@ -1,0 +1,21 @@
+body {
+  background-color:	#F0F8FF;
+}
+
+h1 {
+  color: 	#B22222;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+p {
+  color: 	black;
+  font-weight: lighter;
+  font-family: cursive;
+  font-size: 20px;
+
+}
