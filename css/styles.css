@@ -10,6 +10,8 @@ h1 {
 
 h2 {
   font-family: sans-serif;
+  text-align: center;
+  font-size: 20px;
 }
 
 p {
@@ -17,5 +19,6 @@ p {
   font-weight: lighter;
   font-family: cursive;
   font-size: 20px;
+  text-align: center;
 
 }
