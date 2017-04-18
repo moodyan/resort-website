@@ -19,3 +19,9 @@ p {
   font-size: 20px;
 
 }
+
+ul {
+  color: lightgray;
+  font-style: italic;
+  font-size: 20px;
+}
